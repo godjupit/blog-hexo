@@ -102,8 +102,9 @@ theme: fluid
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: git@github.com:godjupit/godjupit.github.io.git
+  repo: https://github.com/godjupit/godjupit.github.io.git
   branch: main
-  token: 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
 
+root: /blog
 
+  
